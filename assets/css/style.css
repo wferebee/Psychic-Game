@@ -1,0 +1,66 @@
+*{
+    background-color: green;
+}
+
+
+#game-info {
+background-color: green;
+max-height: 100%;
+
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color :orange;
+    height: 200px;
+    line-height: 100px;
+    font-size: 50px;
+
+}
+
+#wins{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color :orange;
+    height: 100px;
+    line-height: 100px;
+    font-size: 30px;
+}
+
+#losses{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color :orange;
+    height: 100px;
+    line-height: 100px;
+    font-size: 30px;
+}
+ 
+#guessesRemaining{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color :orange;
+    height: 100px;
+    line-height: 100px;
+    font-size: 30px;
+}
+ 
+
+
+
+#guessesSoFar{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color :orange;
+    height: 100px;
+    line-height: 100px;
+    font-size: 30px;
+
+}
+
+#psy{
+    float: right;
+    position: relative;
+    bottom: 400px;
+    right: 300px;
+    height: 300px;
+    width: 500px;
+}
+
